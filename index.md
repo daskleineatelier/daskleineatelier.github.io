@@ -16,7 +16,8 @@ Wir wollen das freie kreative Tun fördern, das im Alltag oft wenig Raum und Zei
 
 Manche Kinder werden kleine oder große Kunstwerke mitnehmen, andere "nur" bunte Finger und gute Laune, wieder andere große Ideen und Lust auf mehr und manche alles zusammen. Wir sind gespannt!
 
-Die Workshops werden immer von uns beiden abgehalten, unsere Erfahrungen aus Pädagogik und künstlerischer Praxis kommen gemeinsam zum Einsatz. 
+Die Workshops werden immer von uns beiden abgehalten, unsere Erfahrungen aus Pädagogik und künstlerischer Praxis kommen gemeinsam zum Einsatz.
+
 ![image](https://github.com/daskleineatelier/daskleineatelier.github.io/assets/3842031/46619522-7072-4eb9-928a-be41f80a2120)
 
 

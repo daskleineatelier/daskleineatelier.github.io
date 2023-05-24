@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Über uns
+# Was unser Atelier ausmacht
 
 Wir wollen das freie kreative Tun fördern, das im Alltag oft wenig Raum und Zeit bekommt. Basteln, Malen und Experimentieren – ohne Vorgaben und Leistungsdruck. Neben dem freien Gestalten ist uns ein nachhaltiger und bewusster Umgang mit Materialien ein großes Anliegen. Wir schaffen einen Rahmen, in dem sich die Kinder ausprobieren können. Wir bieten Farben und Material in einem bunten „Materialbuffet“, aus dem die Kinder frei wählen dürfen. Unterstützung und Anregung geben wir nach Bedarf. 
 

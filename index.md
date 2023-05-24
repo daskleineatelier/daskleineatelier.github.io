@@ -12,7 +12,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Wir wollen das freie kreative Tun fördern, das im Alltag oft wenig Raum und Zeit bekommt. Basteln, Malen und Experimentieren – ohne Vorgaben und Leistungsdruck. Neben dem freien Gestalten ist uns ein nachhaltiger und bewusster Umgang mit Materialien ein großes Anliegen. Wir schaffen einen Rahmen, in dem sich die Kinder ausprobieren können. Wir bieten Farben und Material in einem bunten „Materialbuffet“, aus dem die Kinder frei wählen dürfen. Unterstützung und Anregung geben wir nach Bedarf. 
+
+Manche Kinder werden kleine oder große Kunstwerke mitnehmen, andere "nur" bunte Finger und gute Laune, wieder andere große Ideen und Lust auf mehr und manche alles zusammen. Wir sind gespannt!
+
+Die Workshops werden immer von uns beiden abgehalten, unsere Erfahrungen aus Pädagogik und künstlerischer Praxis kommen gemeinsam zum Einsatz. 
+![image](https://github.com/daskleineatelier/daskleineatelier.github.io/assets/3842031/46619522-7072-4eb9-928a-be41f80a2120)
+
 
 ## Header 2
 

@@ -17,15 +17,16 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
         <h4>KONTAKT:</h4>
         <p>daskleineatelierwien@gmail.com</p>
-        <h4>NÄCHSTER TERMIN: am 5.6.2023, 15-17 Uhr</h4>
+        <h4>NÄCHSTER TERMIN:</h4>
+        <p>am 5.6.2023, 15-17 Uhr</p>
         <p>ORT: wird noch bekannt gegeben</p>
         <h4>WIR SIND:</h4>
         <p>Anna Lisa Kopeinig, MA, 36, Pädagogin mit Master in Sozialwissenschaften und</p>

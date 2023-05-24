@@ -15,8 +15,6 @@ Manche Kinder werden kleine oder große Kunstwerke mitnehmen, andere „nur“ b
 
 Die Workshops werden immer von uns beiden abgehalten, unsere Erfahrungen aus Pädagogik und künstlerischer Praxis kommen gemeinsam zum Einsatz.
 
-![Gruppe](assets/img/photo-gruppe.jpg)
-![Sternträgerin](assets/img/photo-sterntraegerin.jpg | width=50%)
-![Monster+ Ball](assets/img/photo-monsterball.jpg | width=300)
+
 
 

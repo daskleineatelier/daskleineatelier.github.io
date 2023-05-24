@@ -14,6 +14,9 @@ Wir schaffen einen Rahmen, in dem sich die Kinder ausprobieren können. Wir biet
 Manche Kinder werden kleine oder große Kunstwerke mitnehmen, andere „nur“ bunte Finger und gute Laune, wieder andere große Ideen und Lust auf mehr und manche alles zusammen. Wir sind gespannt!
 
 Die Workshops werden immer von uns beiden abgehalten, unsere Erfahrungen aus Pädagogik und künstlerischer Praxis kommen gemeinsam zum Einsatz.
-![DSC_0734](https://github.com/daskleineatelier/daskleineatelier.github.io/assets/3842031/dbe9fb27-d056-4f4d-9593-2bfcce745eb1)
+
+![Gruppe](assets/img/photo-gruppe.jpg)
+![Sternträgerin](assets/img/photo-sterntraegerin.jpg | width=50%)
+![Monster+ Ball](assets/img/photo-monsterball.jpg | width=300)
 
 

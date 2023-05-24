@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Was unser Atelier ausmacht
+# Was uns ausmacht
 
 Wir wollen das freie kreative Tun fördern, das im Alltag oft wenig Raum und Zeit bekommt. Basteln, Malen und Experimentieren – ohne Vorgaben und Leistungsdruck. 
 

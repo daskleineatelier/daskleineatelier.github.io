@@ -39,8 +39,12 @@
       {{ content }}
 
       <img src="{{ "/assets/img/photo-gruppe.jpg" | relative_url }}" alt="Gruppe"/>
-      <img src="{{ "/assets/img/photo-sterntraegerin.jpg" | relative_url }}" alt="Sternträgerin" width="50%"/>
-      <img src="{{ "/assets/img/photo-monsterball.jpg" | relative_url }}" alt="Monster + Ball" width="50%"/>
+      <div style="width:50%">
+        <img src="{{ "/assets/img/photo-sterntraegerin.jpg" | relative_url }}" alt="Sternträgerin"/>
+      </div>
+      <div style="width:50%">
+        <img src="{{ "/assets/img/photo-monsterball.jpg" | relative_url }}" alt="Monster + Ball"/>
+      </div>
 
       </section>
       <footer>
